@@ -87,10 +87,6 @@ body {
 	margin: 20px auto 20px auto;
 }
 
-input[placeholder] {
-	text-align: center;
-}
-
 .item-box, .item-done-box {
 	width: 40%;
 	height: 50px;
